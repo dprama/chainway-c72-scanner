@@ -1,0 +1,15 @@
+name: chainway_c72_scanner
+description: Offline barcode scanning and UHF inventory for Chainway C72 using the official SDK.
+publish_to: none
+version: 1.1.1+4
+environment:
+  sdk: ^3.12.2
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+flutter:
+  uses-material-design: true
